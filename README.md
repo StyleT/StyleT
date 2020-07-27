@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there folks 👋
+
+Passionate T-shaped engineer that worked as Senior Software Engineer, Team Lead, Scrum Master, Product Owner, Head of the technical stream, Solution and System Architect and DevOps. 
+
+Had from 3 to ~40 people under management with 1 to 6 direct reporters. 
+
+I know how to build software that solves people’s need and know how to manage this process. But at the same time I always open to the new practices and technologies.
+
+- 🔭 I’m currently working on: [ILC](https://github.com/namecheap/ilc), [TailorX](https://github.com/StyleT/tailorx)
+- 🌟 My main skills: JS, Node.js, AWS, DevOps, Fullstack web development, Micro-frontends, Micro-services, Jenkins, Terraform, Docker, Linux, 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vladfedosov/), [Twitter](https://twitter.com/vladlen_fedosov)
+
 
 <!--
 **StyleT/StyleT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
